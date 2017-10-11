@@ -24,6 +24,8 @@ A list of all URLs you can update is sent to Slack.
 Set this up with your favorite job scheduler ([Cron](https://en.wikipedia.org/wiki/Cron), [sleepto](https://github.com/qvl/sleepto), ...) to run once a month.
 
 
+[Find out more about the implementation](https://jorin.me/use-go-channels-to-build-a-crawler/).
+
 ## Install
 
 - With [Go](https://golang.org/):
